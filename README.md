@@ -1,66 +1,71 @@
-**You are required to complete Section I. Analysis by 2nd September. **
-
-Goal; observe & describe.
-
-This document is written markdown syntax. To edit this document teach yourself [how to use markdown](https://en.support.wordpress.com/markdown-quick-reference/). You can use any existing markdown editors ([1](https://www.typora.io), [2](http://code52.org/DownmarkerWPF/)) from your local machine and then sync through Github desktop. 
-
-# Project Name
+# Digitize
 # I. Analysis
 ## 1. Research  
 ### a. Scope
-Define project goals and schedule
-1. objectives
-In which way will your project solve user’s problem?
+1. Objectives
+
+To create a Virtual Fitting Room app. It enables users to try on clothes to check one or more of size, fit or style, but virtually rather than physically.
+
+  *Problem that customers facing in traditional boutique shop:*
+
+- Take time to choose/change the clothes.
+- Queue up to try the new clothes.
+- Choose for suitable size of the clothes.
 
 ### b. Audit
-Review existing work and product
-1. Field (market) research
+Existing work and product
 
-2. competitors / alternatives / replacement
+- N-show Virtual Dressing Room: https://www.youtube.com/watch?v=59VUkMahcLI
 
-4. relevant technologies 
+1. Competitors 
+
+   - Traditional boutique shop.
+   - Online clothes store.
+
+2. Relevant technologies 
+
+   - Kinect
+   - Depth sensing camera
+   - Webcam
 
 ### c. Stakeholder Interviews (internal / external)
-Understand product vision and constraints
-1. product{project} vision 
+Product vision and constraints
+1. constraints 
+   - viable technologies: unadvanced depth sensing camera/webcam.
+   - cost: insufficient cost for multiple assets.
 
-2. risk
-	3. What is the worst result?
 
-3. Obstacles
-	1. external threats 
-4. constraints 
-	1. Internal limitations 
-		2. viable technologies
-		2. cost
-5. opportunities 
-	1. **In spite of** the obstacles we have this project has strength from a), b), c), …. 
-	2. Persisting problem
+2. opportunities 
+   1. In spite of the obstacles we have this project has strength from
 
-5. users 
+       a) Help increase purchase intent.
 
-### d. User observations
-Understand user needs and behavior and describe it.
-Find various aspect of audience/customer
- 
-1. Users
+       b) Save time of trying clothes.
 
-2. potential users
+       c) Allow users to share images of themselves with friends through social apps
 
-3. (user’s) behaviors
+   2. Persisting problem
 
-4. (user’s) attitudes
+       a) Need a certain amount of cost for frequently update clothes data & maintenance fees.
 
-5. (user’s) aptitudes
-	- users’s ability to learn something quickly and do it well
+3. users 
 
-6. (user’s) motivations
+d. User observations
 
-7. (user’s) environments
-
-8. (user’s) tools
-
-9. (user’s) challenges
+1. potential users: 
+   - Female users.
+2. (user’s) behaviors:  
+   - Pursue fashion.
+   - Purchase intent.
+   - Promotion period.
+   - Try to change their outlook.
+3. (user’s) attitudes
+4. (user’s) aptitudes
+   - users’s ability to learn something quickly and do it well
+5. (user’s) motivations
+6. (user’s) environments
+7. (user’s) tools
+8. (user’s) challenges
 
 ## 2. Modeling
 ### a. Personas
@@ -125,8 +130,8 @@ Design overall structure of user experience
 3. Navigation sequencing
 4. Principles and patterns
 5. Floor Plan
-	6. flow
-	7. sketches
-	8. storyboards
+   6. flow
+   7. sketches
+   8. storyboards
 ### c. Key Path and Validation Scenarios
 Describe how the persona interacts with the product
