@@ -4,19 +4,20 @@
 ### a. Scope
 1. Objectives
 
-To create a Virtual Fitting Room app. It enables users to try on clothes to check one or more of size, fit or style, but virtually rather than physically.
+To create a Virtual Fitting Room app. It enables buyer to buy clothes more relieved on the aspect of size and style. It enable seller to clearly present their new trending clothes.
 
-  *Problem that customers facing in traditional boutique shop:*
+  *How:*
 
-- Take time to choose/change the clothes.
-- Queue up to try the new clothes.
-- Choose for suitable size of the clothes.
+- Buyers can clearly see how they look like with the clothes they choose through this application.
+- Sellers can received notification from buyers immediately.
+
+  ​
 
 ### b. Audit
 
 [![Slide1.jpg](https://s12.postimg.org/daqv01abx/Slide1.jpg)](https://postimg.org/image/ed11ikt55/)
 
-[![Slide2.jpg](https://s21.postimg.org/hqnzurmaf/Slide2.jpg)](https://postimg.org/image/rnz0nttw3/)
+[![2.jpg](https://s9.postimg.org/sel21dke7/image.jpg)](https://postimg.org/image/s1tnv724b/)
 
 
 
@@ -24,11 +25,16 @@ To create a Virtual Fitting Room app. It enables users to try on clothes to chec
 
 
 
-Existing work and product
+**Existing work and product**
 
 - Virtual fitting room - real time mobile app: https://www.youtube.com/watch?v=k5UQl47d0Wk
 
-  ​
+  - It's an application that allow buyer to try on the virtual clothes and they can clearly see that how the style of clothes look like and they can immediately know that whether the clothes match themselves or not. 
+
+
+First, buyers have to turn on this application . Then buyers can select which clothes do you like which are displaying out by the seller. After selecting clothes, the app will ask the buyers to turn on their camera. Then, buyers just have to adjust the angle of the camera and the virtual clothes will be track and trace on the body of buyers. If want to change the other clothes, buyers just have to swipe the option to the next and the new clothes will be track and trace again on the body of buyers. 
+
+The process of changing clothes is just happen in few second by swiping your choice to the next. If they like the clothes they can just press the capture button  to snap down images and share it through social media or they can send it to the seller and ask for details.   
 
 1. Competitors 
 
@@ -37,9 +43,7 @@ Existing work and product
 
 2. Relevant technologies 
 
-   - Face tracking technologies: *Snapchat, Snow*
-
-     ​
+   ​
 
 ### c. Stakeholder Interviews (internal / external)
 **Product vision** 
@@ -75,17 +79,17 @@ a) Need a certain amount of cost for frequently update clothes data & maintenanc
 
 **User observations**
 
-[![1.png](https://s21.postimg.org/gp1qzd9nr/image.png)](https://postimg.org/image/c35mr0o4j/)
+Online Fashion Shopping
 
-[![2.png](https://s21.postimg.org/aa0iulr7r/image.png)](https://postimg.org/image/6qel4sohv/)
+The survey  is made for the purpose of understanding how and what people usually shop online. It also designed to get peole's experience of online fashion shopping, what problem they usually faced during online fashion shopping, and what they expect during online fashion shopping. With all the data collected, it will help further development on the virtual fitting room application and help to solve some common problem people face during online fashion shopping. 
 
-[![3.png](https://s13.postimg.org/3qu4sa88n/image.png)](https://postimg.org/image/ia19tp1df/)
+[![screencapture-docs-google-forms-d-1UsrhgHa9MEAXK.png](https://s14.postimg.org/liv8vxncx/screencapture_docs_google_forms_d_1_Usrhg_Ha9_MEAXK.png)](https://postimg.org/image/ktcgjkmt9/)
 
-[![4.png](https://s16.postimg.org/pkplzmnqd/image.png)](https://postimg.org/image/ctbft4dy9/)
 
-[![5.png](https://s16.postimg.org/685lw6i8l/image.png)](https://postimg.org/image/r51u0ug9d/)
 
-Reference: http://www.ecommercemilo.com/2016/03/malaysian-online-shopping-insights-2016-shoppu.html
+
+
+
 
 
 
@@ -152,9 +156,7 @@ Attitude:
 
 [![aptitude2.jpg](https://s3.postimg.org/8h4084ds3/aptitude2.jpg)](https://postimg.org/image/phmwgsqtb/)
 
-Tools: Phone, tablet, laptop
-
-
+Tools: Phone, tablet
 
 # II. Synthesis
 ## 3. Requirements Definition
