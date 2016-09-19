@@ -38,8 +38,6 @@ To create a Virtual Fitting Room app. It enables buyer to buy clothes more relie
    - Traditional boutique shop.
    - Online clothes store.
 
-2. Relevant technologies 
-
    ​
 
 ### c. Stakeholder Interviews (internal / external)
