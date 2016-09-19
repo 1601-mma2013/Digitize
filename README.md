@@ -29,12 +29,9 @@ To create a Virtual Fitting Room app. It enables buyer to buy clothes more relie
 
 - Virtual fitting room - real time mobile app: https://www.youtube.com/watch?v=k5UQl47d0Wk
 
-  - It's an application that allow buyer to try on the virtual clothes and they can clearly see that how the style of clothes look like and they can immediately know that whether the clothes match themselves or not. 
+  - Buyers usually doesn't know whether the clothes they choose online whether suite their outlook or not, but by using this application it allow buyer to try on the virtual clothes and check it out so the risk of buying wrong clothes might reduces. They can even choose their favourite clothes in very short time without queue up and try all the clothes.
 
-
-First, buyers have to turn on this application . Then buyers can select which clothes do you like which are displaying out by the seller. After selecting clothes, the app will ask the buyers to turn on their camera. Then, buyers just have to adjust the angle of the camera and the virtual clothes will be track and trace on the body of buyers. If want to change the other clothes, buyers just have to swipe the option to the next and the new clothes will be track and trace again on the body of buyers. 
-
-The process of changing clothes is just happen in few second by swiping your choice to the next. If they like the clothes they can just press the capture button  to snap down images and share it through social media or they can send it to the seller and ask for details.   
+   
 
 1. Competitors 
 
