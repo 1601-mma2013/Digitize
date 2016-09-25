@@ -44,6 +44,7 @@ To create a Virtual Fitting Room app. It enables buyer to buy clothes more relie
 **Product vision** 
 
 - Seller able to promote their new clothes through this application.
+- Buyer able to choose and try out their new clothes in short duration.
 
 **Risks**
 
