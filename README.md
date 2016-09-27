@@ -277,8 +277,8 @@ Seller
 
 ### Validation Scenarios
 
-  ## i.   Alternative Scenario : 
+  ### i.   Alternative Scenario : 
           Alice would like to check the order list and feedback from customers. She just have to use gesture function to access to the Virtual Fitting Room Apps to save time.
           
-  ## ii.   Necessary-use Scenario : 
+  ### ii.   Necessary-use Scenario : 
           Elaine who work as a chemist always have to remember a lot of things and sometimes she might forgot her password. She use the "Remember Your Password" to help her log in to her account easily.
