@@ -188,7 +188,7 @@ Buyer
 3. design imperatives
 
 -can show exact cloth size on the user body with camera.
--
+
 
 4. product vision
 
