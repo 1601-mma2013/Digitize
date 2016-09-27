@@ -160,19 +160,19 @@ Tools: Phone, tablet
 
 Seller
 
-1. Alice wake up in the morning of 6:30a.m. she prepare breakfast for her family.While waiting the food to be cooked,she turn on her phone ,open the apps and check the order list from customers.
+1. Alice wake up in the morning of 6:30a.m she prepare breakfast for her family.While waiting the food to be cooked,she turn on her phone ,open the apps and check the order list from customers.
 
-2. Around 8a.m., she depart from house to her workplace.During the traffic, she turn on the apps usingher phone and reply her customers inquiry.
+2. Around 8a.m, she depart from house to her workplace.During the traffic, she turn on the apps usingher phone and reply her customers inquiry.
 
 3. During her working hour workplace, she received an email from supplier that ner stocks have just arrive. She confirm with the supplier about the clothes delivery time and continue working
 
-4. She having her lunch at 1p.m. After her meal,she still have 30 minutes left to rest.She open up her phone and turn on the application.She uploaded the ner treding clothes which are just arrived through the application to promote them.After her break hour, she continue her work.
+4. She having her lunch at 1p.m After her meal,she still have 30 minutes left to rest.She open up her phone and turn on the application.She uploaded the ner treding clothes which are just arrived through the application to promote them.After her break hour, she continue her work.
 
-5. Around 6p.m.,She finished her job and she leave her workplace. On the way back home, she stucked in traffic.She take out her phone again and try to see is there anyone asking about the new clothes.
+5. Around 6p.m,She finished her job and she leave her workplace. On the way back home, she stucked in traffic.She take out her phone again and try to see is there anyone asking about the new clothes.
 
-6. She reached home at 7p.m. She quickly preepare dinner for her family.After dinner,she have more time todo her own things.She checked out the other online bountique, look at what are the trending clothes now.She compare the price and style of the clothes and decide what she want to restock next time.
+6. She reached home at 7p.m She quickly preepare dinner for her family.After dinner,she have more time todo her own things.She checked out the other online bountique, look at what are the trending clothes now.She compare the price and style of the clothes and decide what she want to restock next time.
 
-7. Around 11p.m. before she go to bed, she turn on the apps and check again all the order list form her customer and reply all of them to make sure the service provided is good enough and they will shop her online bountique often.
+7. Around 11p.m before she go to bed, she turn on the apps and check again all the order list form her customer and reply all of them to make sure the service provided is good enough and they will shop her online bountique often.
 
 ### b. Requirements
 Describe necessary capabilities of the product
