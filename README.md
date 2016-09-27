@@ -203,29 +203,29 @@ Seller
 
  Key Attributes of the product
 
- Seller
-  - Let user show the exact product
-  - User using a platform to sell their cloth without a real shop and real tester product for buyer test it out.
+  Seller
+   -Let user show the exact product
+   -User using a platform to sell their cloth without a real shop and real tester product for buyer test it out.
  
- Buyer
-  -Let user more trustable to seller's product.
-  -User can save time travel to real shop to test clothes.
+  Buyer
+   -Let user more trustable to seller's product.
+   -User can save time travel to real shop to test clothes.
 
  Scope Of Them Project
 
- Seller
-  -Seller able to show their cloth without limit.
+  Seller
+   -Seller able to show their cloth without limit.
  
- Buyer
-  -Buyer able to test out any cloth they like in short time.
+  Buyer
+   -Buyer able to test out any cloth they like in short time.
 
  Phases Of The Project
  
- Seller
-  -Without a real shop,seller can promote their clothes same with real shop.
+  Seller
+   -Without a real shop,seller can promote their clothes same with real shop.
  
- Buyer 
-  -Without travelling to shop,buyer can test the cloth what they like.
+  Buyer 
+   -Without travelling to shop,buyer can test the cloth what they like.
 
 
 6. technology
