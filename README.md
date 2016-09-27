@@ -252,7 +252,7 @@ Design overall structure of user experience
    7. sketches
    8. storyboards
    
-###  Key Path and Validation Scenarios
+###  Key Path Scenarios
 1.	Alice turns on Virtual Fitting Room Apps using her Android phone. She clicks the seller button on the bottom left. Then she has to key in her email and password in order to access to the seller home page of the apps.
 2.	Alice click the “Products” button and it lead her to view on all the products she have uploaded. After that she can click on the products to check the feedback and inquiry of customers. She reply all her customers before she go to bed.
 3.	Alice wants to upload her new clothes. She clicks the “Stocks Manager” button to go to the Stock Manage page and she can upload her new arrival clothes and list out the detail about the clothes. After that she clicks the menu button on the top left back to homepage.
