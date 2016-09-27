@@ -197,11 +197,11 @@ Seller
 
 5. business requirements
 
- Collected Information
+ - Collected Information
 
   -Buyer prefer to have a virtual fitting room
 
- Key Attributes of the product
+ - Key Attributes of the product
 
   Seller
    -Let user show the exact product
@@ -211,7 +211,7 @@ Seller
    -Let user more trustable to seller's product.
    -User can save time travel to real shop to test clothes.
 
- Scope Of Them Project
+ - Scope Of Them Project
 
   Seller
    -Seller able to show their cloth without limit.
@@ -219,7 +219,7 @@ Seller
   Buyer
    -Buyer able to test out any cloth they like in short time.
 
- Phases Of The Project
+ - Phases Of The Project
  
   Seller
    -Without a real shop,seller can promote their clothes same with real shop.
