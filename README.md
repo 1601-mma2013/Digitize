@@ -177,28 +177,46 @@ Seller
 
 1. Functional and data needs
 
-2. user mental models
+   [![screencapture-lavaprotocols-2016-03-14-mobile-ma.png](https://s11.postimg.org/79ziyqdzn/screencapture_lavaprotocols_2016_03_14_mobile_ma.png)](https://postimg.org/image/ed7eecjf3/)
 
- Seller
-  -show their clothes without space limit.
+   [![2.png](https://s13.postimg.org/5aqjqg5mv/image.png)](https://postimg.org/image/4l7re3537/)
 
- Buyer
-  -choose their clothes without travel to the shop.
+   [![5.png](https://s3.postimg.org/ayxoxad4j/image.png)](https://postimg.org/image/8udbw7bhr/)
 
-3. design imperatives
+   [![8.png](https://s11.postimg.org/cfk7nxtnn/image.png)](https://postimg.org/image/e7d6iud0f/)
 
- -can show exact cloth size on the user body with camera.
+   ​
+
+2. User mental models
+
+   -  Seller
+
+     -show their clothes without space limit.
 
 
-4. product vision
+   -  Buyer
+
+     -choose their clothes without travel to the shop.
+
+     ​
+
+3. Design imperatives
+
+   -can show exact cloth size on the user body with camera.
+
+   ​
+
+4. Product vision
+
+   ​
 
 
 
-5. business requirements
+5. Business requirements
 
-- Collected Information
+   -Collected Information.
 
-  -Buyer prefer to have a virtual fitting room
+   -Buyer prefer to have a virtual fitting room.
 
 - Key Attributes of the product
 
@@ -227,7 +245,7 @@ Seller
    -Without travelling to shop,buyer can test the cloth what they like.
 
 
-6. technology
+6. Technology
 
    Range imaging time-of-flight cameras are highly advanced LiDar systems that replace the standard point-by-point laser beams with a single light pulse to achieve full spatial awareness. The camera can sense the time that it takes light to return from any surrounding objects, combine it with video data and create real time 3D images that can be used to track facial or hand movements.
 
@@ -249,31 +267,30 @@ Seller
                This application is using keypad and touch screen
 
 ## Functional and data elements
-          i.   Fundamental subjects : 
-                -Buy clothes more relieved on the aspect of size and style
-                -Clearly presents new trending clothes.
+    i.   Fundamental subjects : 
+         -Buy clothes more relieved on the aspect of size and style
+         -Clearly presents new trending clothes.
+
+    ii.  Relationship between each other :   
+         After login to this mobile application, 
+           -Buyer can check on the new trending at any time.
+           -Seller can promote their clothes without having an existing shop.
 
 
-          ii.  Relationship between each other :   
-                After login to this mobile application, 
-               -Buyer can check on the new trending at any time.
-               -Seller can promote their clothes without having an existing shop.
+    iii. Functional elements based on functional requirements: 
+       -Buyer can try clothes via online system, capture the image and share it through social media
+       -Seller can promote their clothes.
+             
+    iv. Accomplish user’s goals
+        -Buyer can save time and buy clothes more relieved on the aspect of size and style.
+        -Seller enables to clearly display out unlimited new trending clothes.
 
 
-        iii.  Functional elements based on functional requirements: 
-               -Buyer can try clothes via online system, capture the image and share it through social media
-               -Seller can promote their clothes.
+    v. Fit within technology
+       This application is worked on using mobile phone as the technology.
     
-         iv.  Accomplish user’s goals
-               -Buyer can save time and buy clothes more relieved on the aspect of size and style.
-               -Seller enables to clearly display out unlimited new trending clothes.
-
-
-          v.  Fit within technology
-               This application is worked on using mobile phone as the technology.
-    
-         vi.  Differentiation of interaction from competitors
-                This application is mostly for the buyer to try out new clothes before buying .Users can check on the new trending clothes, try it and see the size and style match them or not then only decide to buy it or not without making any mistake.                   
+    vi.  Differentiation of interaction from competitors
+       This application is mostly for the buyer to try out new clothes before buying .Users can check on the new trending clothes, try it and see the size and style match them or not then only decide to buy it or not without making any mistake.                   
 
 ### Functional groups and hierarchy
 
@@ -329,8 +346,9 @@ Buyer
 
 ### Validation Scenarios
 
-    i.   Alternative Scenario : 
-          Alice would like to check the order list and feedback from customers. She just have to use gesture function to access to the Virtual Fitting Room Apps to save time.
+    i. Alternative Scenario : 
+     Alice would like to check the order list and feedback from customers. She just have to use gesture function to access to the Virtual Fitting Room Apps to save time.
           
-    ii.   Necessary-use Scenario : 
-          Elaine who work as a chemist always have to remember a lot of things and sometimes she might forgot her password. She use the "Remember Your Password" to help her log in to her account easily.
+    ii. Necessary-use Scenario : 
+     Elaine who work as a chemist always have to remember a lot of things and sometimes she might forgot her password. She use the "Remember Your Password" to help her log in to her account easily.
+
