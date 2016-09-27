@@ -228,8 +228,8 @@ Seller
    -Without travelling to shop,buyer can test the cloth what they like.
 
 
-6. technology
- Range imaging time-of-flight cameras are highly advanced LiDar systems that replace the standard point-by-point laser beams with a single light pulse to achieve full spatial awareness. The camera can sense the time that it takes light to return from any surrounding objects, combine it with video data and create real time 3D images that can be used to track facial or hand movements.The technology can be adapted as a high-speed 3D laser scanner, which can capture more than 150 images per second. Realistically, the technology could turn the everyday smartphone into an incredibly advanced, handheld 3D scanner.With this new technology hitting smartphones, a world of new, life-changing apps and functionality will be available to virtually everyone. One of the hurdles that needs to be cleared before the full range of depth-sensing camera features can be adopted by mainstream users is the ability to process and compress of data required to generate a fully-realized 3D image. 
+### 6. Technology
+    Range imaging time-of-flight cameras are highly advanced LiDar systems that replace the standard point-by-point laser beams with a single light pulse to achieve full spatial awareness. The camera can sense the time that it takes light to return from any surrounding objects, combine it with video data and create real time 3D images that can be used to track facial or hand movements.The technology can be adapted as a high-speed 3D laser scanner, which can capture more than 150 images per second. Realistically, the technology could turn the everyday smartphone into an incredibly advanced, handheld 3D scanner.With this new technology hitting smartphones, a world of new, life-changing apps and functionality will be available to virtually everyone. One of the hurdles that needs to be cleared before the full range of depth-sensing camera features can be adopted by mainstream users is the ability to process and compress of data required to generate a fully-realized 3D image. 
 
 ## 4. Design Framework
 ## Form factor, posture and input methods
