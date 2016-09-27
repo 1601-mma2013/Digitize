@@ -231,28 +231,43 @@ Seller
 6. technology
 
 ## 4. Design Framework
-### a. Elements
-Deﬁne manifestations of information and functionality
-1. Information
+## Form factor, posture and input methods
+        i.   Form factor : 
+               This application is a mobile app.
 
-2. functions
+          ii.  Posture : 
+               The modes of attention are palm and fingers.
 
-3. mechanisms
+          iii. Input methods : 
+               This application is using keypad and touch screen
 
-4. actions
+## Functional and data elements
+          i.   Fundamental subjects : 
+                -Buy clothes more relieved on the aspect of size and style
+                -Clearly presents new trending clothes.
 
-5. domain object models
 
-### b. Framework
-Design overall structure of user experience
-1. Object relationships
-2. Conceptual groupings
-3. Navigation sequencing
-4. Principles and patterns
-5. Floor Plan
-   6. flow
-   7. sketches
-   8. storyboards
+          ii.  Relationship between each other :   
+                After login to this mobile application, 
+               -Buyer can check on the new trending at any time.
+               -Seller can promote their clothes without having an existing shop.
+         
+                                                                                   
+        iii.  Functional elements based on functional requirements: 
+               -Buyer can try clothes via online system, capture the image and share it through social media
+               -Seller can promote their clothes.
+
+         iv.  Accomplish user’s goals
+               -Buyer can save time and buy clothes more relieved on the aspect of size and style.
+               -Seller enables to clearly display out unlimited new trending clothes.
+
+
+          v.  Fit within technology
+               This application is worked on using mobile phone as the technology.
+
+         vi.  Differentiation of interaction from competitors
+                This application is mostly for the buyer to try out new clothes before buying .Users can check on the new trending                       clothes, try it and see the size and style match them or not then only decide to buy it or not without making any                       mistake.
+
    
 ### Key Path Scenarios
 1.	Alice turns on Virtual Fitting Room Apps using her Android phone. She clicks the seller button on the bottom left. Then she has to key in her email and password in order to access to the seller home page of the apps.
