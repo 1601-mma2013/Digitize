@@ -180,11 +180,51 @@ Describe necessary capabilities of the product
 
 2. user mental models
 
+Seller
+-show their clothes without space limit.
+Buyer
+-choose their clothes without travel to the shop.
+
 3. design imperatives
+
+-can show exact cloth size on the user body with camera.
+-
 
 4. product vision
 
+
+
 5. business requirements
+
+Collected Information
+
+-Buyer prefer to have a virtual fitting room
+
+Key Attributes of the product
+
+Seller
+- Let user show the exact product
+- User using a platform to sell their cloth without a real shop and real tester product for buyer test it out.
+
+Buyer
+-Let user more trustable to seller's product.
+-User can save time travel to real shop to test clothes.
+
+Scope Of Them Project
+
+Seller
+-Seller able to show their cloth without limit.
+
+Buyer
+-Buyer able to test out any cloth they like in short time.
+
+Phases Of The Project
+
+Buyer 
+-Without travelling to shop,buyer can test the cloth what they like.
+
+Seller
+-Without a real shop,seller can promote their clothes same with real shop.
 
 6. technology
 
