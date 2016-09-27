@@ -175,19 +175,19 @@ Seller
 7. Around 11p.m before she go to bed, she turn on the apps and check again all the order list form her customer and reply all of them to make sure the service provided is good enough and they will shop her online bountique often.
 
 ### b. Requirements
-Describe necessary capabilities of the product
+
 1. Functional and data needs
 
 2. user mental models
 
-Seller
--show their clothes without space limit.
-Buyer
--choose their clothes without travel to the shop.
+ Seller
+  -show their clothes without space limit.
+ Buyer
+  -choose their clothes without travel to the shop.
 
 3. design imperatives
 
--can show exact cloth size on the user body with camera.
+ -can show exact cloth size on the user body with camera.
 
 
 4. product vision
@@ -196,35 +196,33 @@ Buyer
 
 5. business requirements
 
-Collected Information
+ Collected Information
 
--Buyer prefer to have a virtual fitting room
+  -Buyer prefer to have a virtual fitting room
 
-Key Attributes of the product
+ Key Attributes of the product
 
-Seller
-- Let user show the exact product
-- User using a platform to sell their cloth without a real shop and real tester product for buyer test it out.
+ Seller
+  - Let user show the exact product
+  - User using a platform to sell their cloth without a real shop and real tester product for buyer test it out.
+ Buyer
+  -Let user more trustable to seller's product.
+  -User can save time travel to real shop to test clothes.
 
-Buyer
--Let user more trustable to seller's product.
--User can save time travel to real shop to test clothes.
+ Scope Of Them Project
 
-Scope Of Them Project
+ Seller
+  -Seller able to show their cloth without limit.
+ Buyer
+  -Buyer able to test out any cloth they like in short time.
 
-Seller
--Seller able to show their cloth without limit.
+ Phases Of The Project
+ 
+ Seller
+  -Without a real shop,seller can promote their clothes same with real shop.
+ Buyer 
+  -Without travelling to shop,buyer can test the cloth what they like.
 
-Buyer
--Buyer able to test out any cloth they like in short time.
-
-Phases Of The Project
-
-Buyer 
--Without travelling to shop,buyer can test the cloth what they like.
-
-Seller
--Without a real shop,seller can promote their clothes same with real shop.
 
 6. technology
 
@@ -251,12 +249,9 @@ Design overall structure of user experience
    6. flow
    7. sketches
    8. storyboards
-   
-###  Key Path Scenarios
+### c. Key Path and Validation Scenarios
 1.	Alice turns on Virtual Fitting Room Apps using her Android phone. She clicks the seller button on the bottom left. Then she has to key in her email and password in order to access to the seller home page of the apps.
 2.	Alice click the “Products” button and it lead her to view on all the products she have uploaded. After that she can click on the products to check the feedback and inquiry of customers. She reply all her customers before she go to bed.
 3.	Alice wants to upload her new clothes. She clicks the “Stocks Manager” button to go to the Stock Manage page and she can upload her new arrival clothes and list out the detail about the clothes. After that she clicks the menu button on the top left back to homepage.
 4.	Alice wants to check the order list from customers. She clicks the “Order list” button and it will show her the details of order from customers.
-
-###  Validation Scenarios
 
