@@ -31,7 +31,6 @@ To create a Virtual Fitting Room app. It enables buyer to buy clothes more relie
 
   - Buyers usually doesn't know whether the clothes they choose online whether suite their outlook or not, but by using this application it allow buyer to try on the virtual clothes and check it out so the risk of buying wrong clothes might reduces. They can even choose their favourite clothes in very short time without queue up and try all the clothes.
 
-   
 
 1. Competitors 
 
@@ -182,7 +181,7 @@ Seller
 
  Seller
   -show their clothes without space limit.
- 
+
  Buyer
   -choose their clothes without travel to the shop.
 
@@ -197,33 +196,33 @@ Seller
 
 5. business requirements
 
- - Collected Information
+- Collected Information
 
   -Buyer prefer to have a virtual fitting room
 
- - Key Attributes of the product
+- Key Attributes of the product
 
   Seller
    -Let user show the exact product
    -User using a platform to sell their cloth without a real shop and real tester product for buyer test it out.
- 
+
   Buyer
    -Let user more trustable to seller's product.
    -User can save time travel to real shop to test clothes.
 
- - Scope Of Them Project
+- Scope Of Them Project
 
   Seller
    -Seller able to show their cloth without limit.
- 
+
   Buyer
    -Buyer able to test out any cloth they like in short time.
 
- - Phases Of The Project
- 
+- Phases Of The Project
+
   Seller
    -Without a real shop,seller can promote their clothes same with real shop.
- 
+
   Buyer 
    -Without travelling to shop,buyer can test the cloth what they like.
 
@@ -234,10 +233,10 @@ Seller
 ## Form factor, posture and input methods
         i.   Form factor : 
                This application is a mobile app.
-
+    
           ii.  Posture : 
                The modes of attention are palm and fingers.
-
+    
           iii. Input methods : 
                This application is using keypad and touch screen
 
@@ -251,12 +250,12 @@ Seller
                 After login to this mobile application, 
                -Buyer can check on the new trending at any time.
                -Seller can promote their clothes without having an existing shop.
-         
-                                                                                   
+
+
         iii.  Functional elements based on functional requirements: 
                -Buyer can try clothes via online system, capture the image and share it through social media
                -Seller can promote their clothes.
-
+    
          iv.  Accomplish user’s goals
                -Buyer can save time and buy clothes more relieved on the aspect of size and style.
                -Seller enables to clearly display out unlimited new trending clothes.
@@ -264,18 +263,54 @@ Seller
 
           v.  Fit within technology
                This application is worked on using mobile phone as the technology.
-
+    
          vi.  Differentiation of interaction from competitors
                 This application is mostly for the buyer to try out new clothes before buying .Users can check on the new trending clothes, try it and see the size and style match them or not then only decide to buy it or not without making any mistake.                   
 
-   
+### Functional groups and hierarchy
+
+Buyer:
+
+[![functional group_buyer.jpg](https://s15.postimg.org/t7av787mj/functional_group_buyer.jpg)](https://postimg.org/image/s50oooot3/)
+
+
+
+ Seller:
+
+[![functional group_seller-01.jpg](https://s22.postimg.org/stmfr9u69/functional_group_seller_01.jpg)](https://postimg.org/image/wd8dh2wvx/)
+
+
+
+- Interaction patterns and principles
+
+  - This application provide simple interaction design.
+
+  - This application provide a smooth flow of interaction for user to find the products they want and are easily to understand the function of the application.
+
+    ​
+
+### Interaction framework Sketch
+
+
+
+Buyer:
+
+[![Buyer-01-01.jpg](https://s15.postimg.org/p7ythu2mj/Buyer_01_01.jpg)](https://postimg.org/image/62vk82nyf/)
+
+Seller:
+
+[![seller-01.jpg](https://s9.postimg.org/pzpcv0f7z/seller_01.jpg)](https://postimg.org/image/tw2or007f/)
+
+
+
 ### Key Path Scenarios
+
 Seller
 
 1.	Alice turns on Virtual Fitting Room Apps using her Android phone. She clicks the seller button on the bottom left. Then she has to key in her email and password in order to access to the seller home page of the apps.
-2.	Alice wants to upload her new clothes. She clicks the “Stocks Manager” button to go to the Stock Manage page and she can upload her new arrival clothes and list out the detail about the clothes. After that she clicks the menu button on the top left back to homepage.
-3.	Alice wants to check the order list from customers. She clicks the “Order list” button and it will show her the details of order from customers.
-4.	Alice click the “Products” button and it lead her to view on all the products she have uploaded. After that she can click on the products to check the feedback and inquiry of customers. She reply all her customers before she go to bed.
+    2.Alice wants to upload her new clothes. She clicks the “Stocks Manager” button to go to the Stock Manage page and she can upload her new arrival clothes and list out the detail about the clothes. After that she clicks the menu button on the top left back to homepage.
+    3.Alice wants to check the order list from customers. She clicks the “Order list” button and it will show her the details of order from customers.
+    4.Alice click the “Products” button and it lead her to view on all the products she have uploaded. After that she can click on the products to check the feedback and inquiry of customers. She reply all her customers before she go to bed.
 
 Buyer
 
