@@ -266,7 +266,7 @@ Seller
                This application is worked on using mobile phone as the technology.
 
          vi.  Differentiation of interaction from competitors
-                This application is mostly for the buyer to try out new clothes before buying .Users can check on the new trending   clothes, try it and see the size and style match them or not then only decide to buy it or not without making any                  mistake.
+                This application is mostly for the buyer to try out new clothes before buying .Users can check on the new trending clothes, try it and see the size and style match them or not then only decide to buy it or not without making any mistake.                   
 
    
 ### Key Path Scenarios
