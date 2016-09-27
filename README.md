@@ -173,6 +173,24 @@ Seller
 
 7. Around 11p.m before she go to bed, she turn on the apps and check again all the order list form her customer and reply all of them to make sure the service provided is good enough and they will shop her online bountique often.
 
+Buyer
+
+1. Jennifer make up at 8a.m.After washing her face and having breakfast, she go for her class.On the way to University, she listen music using her phone
+
+2. When she reached her class, she turn off the phone and focus on the lecture class.Everytime when the lecture mentioned about the important notes infront of the class, she will take out her phone to snap it down.She also using her phone to find information during the class exercise session.
+
+3. After her morning class, she go for her lunch with her classmate.She like to take picture of her foods and share it on Instagram.During her lunch, she will chat with her friend but also having discussion about the course they attend in the morning session.
+
+4. Around 3p.m, Jennifer will go for badminton training like usual in her University badminton court.She having 2 hours of training there.
+
+5. After training, she head back to her hostel.On the way back to hostel,she will go and buy for her dinner.While taking dinner in her hostel, she open up some of the shopping apps and see what are the trend now.
+
+6. She feel like want to buy clothes so she spend some of her time looking at all the new clothes display by the online boutique.She turn on the apps and try few of her favourite clothes.She try all the trending clothes and choose one of her favourite cloth.She order it through the application and confirm the delivery date form the seller.
+
+7. At night around 10p.m, she introduce and show her friends the clothes she had just tried and recommend them to buy it.
+
+8. Around 12a.m, Jennifer went to bed.
+
 ### b. Requirements
 
 1. Functional and data needs
