@@ -205,90 +205,82 @@ Buyer
 
    ​
 
-2. User mental models
+**User mental models**
+- Seller
+   -show their clothes without space limit.
+- Buyer
 
-   -  Seller
+  -choose their clothes without travel to the shop.
 
-     -show their clothes without space limit.
+ 
 
+**Design imperatives**
 
-   -  Buyer
-
-     -choose their clothes without travel to the shop.
-
-     ​
-
-3. Design imperatives
-
-   -can show exact cloth size on the user body with camera.
-
-   ​
-
-4. Product vision
-
-   ​
+- The application the features of online purchasing include making order, give feedback and promote products.
+- The application provides the features of changing clothes virtually and can share it through social media apps.
 
 
 
-5. Business requirements
+**Product vision**
 
-   -Collected Information.
+- ​ Seller able to promote their new clothes through this application.
+-  Buyer able to choose and try out their new clothes in short duration. 
 
-   -Buyer prefer to have a virtual fitting room.
+
+
+**Business requirements**
+
+-Collected Information.
+
+-Buyer prefer to have a virtual fitting room which can help them save time on purchasing clothes..
 
 - Key Attributes of the product
 
-  Seller
-   -Let user show the exact product
-   -User using a platform to sell their cloth without a real shop and real tester product for buyer test it out.
+  - Seller can save cost in terms of rental and bills.
 
-  Buyer
-   -Let user more trustable to seller's product.
-   -User can save time travel to real shop to test clothes.
+
+  - Buyer can try and choose their favorite clothes short time.
 
 - Scope Of Them Project
 
-  Seller
-   -Seller able to show their cloth without limit.
-
-  Buyer
-   -Buyer able to test out any cloth they like in short time.
+  - Enable buyer to buy clothes more relieved on the aspect of size and style.
+  - Enable seller to present their new trending clothes clearly.
 
 - Phases Of The Project
 
   Seller
-   -Without a real shop,seller can promote their clothes same with real shop.
+   -Without an existing real shop, seller can promote their clothes same with real shop.
 
   Buyer 
-   -Without travelling to shop,buyer can test the cloth what they like.
+   -Without travelling to shop,buyer can try the new trending clothes at home in very short time.
 
 
-6. Technology
 
-   Range imaging time-of-flight cameras are highly advanced LiDar systems that replace the standard point-by-point laser beams with a single light pulse to achieve full spatial awareness. The camera can sense the time that it takes light to return from any surrounding objects, combine it with video data and create real time 3D images that can be used to track facial or hand movements.
 
-   The technology can be adapted as a high-speed 3D laser scanner, which can capture more than 150 images per second. Realistically, the technology could turn the everyday smartphone into an incredibly advanced, handheld 3D scanner.With this new technology hitting smartphones, a world of new, life-changing apps and functionality will be available to virtually everyone. 
+**Technology**
 
-   One of the hurdles that needs to be cleared before the full range of depth-sensing camera features can be adopted by mainstream users is the ability to process and compress of data required to generate a fully-realized 3D image.
+Range imaging time-of-flight cameras are highly advanced LiDar systems that replace the standard point-by-point laser beams with a single light pulse to achieve full spatial awareness. The camera can sense the time that it takes light to return from any surrounding objects, combine it with video data and create real time 3D images that can be used to track facial or hand movements.
 
-   ​
+The technology can be adapted as a high-speed 3D laser scanner, which can capture more than 150 images per second. Realistically, the technology could turn the everyday smartphone into an incredibly advanced, handheld 3D scanner.With this new technology hitting smartphones, a world of new, life-changing apps and functionality will be available to virtually everyone. 
+
+One of the hurdles that needs to be cleared before the full range of depth-sensing camera features can be adopted by mainstream users is the ability to process and compress of data required to generate a fully-realized 3D image.
+
+​
 
 ## 4. Design Framework
 ## Form factor, posture and input methods
-        i.   Form factor : 
+    i.   Form factor : 
                This application is a mobile app.
-    
-          ii.  Posture : 
+    ii.  Posture : 
                The modes of attention are palm and fingers.
-    
-          iii. Input methods : 
+    iii. Input methods : 
                This application is using keypad and touch screen
 
 ## Functional and data elements
     i.   Fundamental subjects : 
          -Buy clothes more relieved on the aspect of size and style
          -Clearly presents new trending clothes.
-
+    
     ii.  Relationship between each other :   
          After login to this mobile application, 
            -Buyer can check on the new trending at any time.
@@ -348,14 +340,14 @@ Seller:
 
 ### Key Path Scenarios
 
-Seller
+- Seller
 
 1.	Alice turns on Virtual Fitting Room Apps using her Android phone. She clicks the seller button on the bottom left. Then she has to key in her email and password in order to access to the seller home page of the apps.
     2.Alice wants to upload her new clothes. She clicks the “Stocks Manager” button to go to the Stock Manage page and she can upload her new arrival clothes and list out the detail about the clothes. After that she clicks the menu button on the top left back to homepage.
     3.Alice wants to check the order list from customers. She clicks the “Order list” button and it will show her the details of order from customers.
     4.Alice click the “Products” button and it lead her to view on all the products she have uploaded. After that she can click on the products to check the feedback and inquiry of customers. She reply all her customers before she go to bed.
 
-Buyer
+- Buyer
 
 1. Jennifer turn on Virtual Fitting Room Apps using her Android phone.She click to log in with her Facebook.Then she is now at the homepage of the apps.
 2. At the homepage, she can choose her favourite clothes slowly.When she found her interesting clothes, she click the product image and all the details are showing up.
