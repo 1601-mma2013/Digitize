@@ -228,9 +228,7 @@ Seller
    -Without travelling to shop,buyer can test the cloth what they like.
 
 
-## 6. Technology
-
-    Range imaging time-of-flight cameras are highly advanced LiDar systems that replace the standard point-by-point laser beams with a single light pulse to achieve full spatial awareness. The camera can sense the time that it takes light to return from any surrounding objects, combine it with video data and create real time 3D images that can be used to track facial or hand movements.The technology can be adapted as a high-speed 3D laser scanner, which can capture more than 150 images per second. Realistically, the technology could turn the everyday smartphone into an incredibly advanced, handheld 3D scanner.With this new technology hitting smartphones, a world of new, life-changing apps and functionality will be available to virtually everyone. One of the hurdles that needs to be cleared before the full range of depth-sensing camera features can be adopted by mainstream users is the ability to process and compress of data required to generate a fully-realized 3D image. 
+6. technology
 
 ## 4. Design Framework
 ## Form factor, posture and input methods
@@ -272,10 +270,19 @@ Seller
 
    
 ### Key Path Scenarios
+Seller
+
 1.	Alice turns on Virtual Fitting Room Apps using her Android phone. She clicks the seller button on the bottom left. Then she has to key in her email and password in order to access to the seller home page of the apps.
 2.	Alice wants to upload her new clothes. She clicks the “Stocks Manager” button to go to the Stock Manage page and she can upload her new arrival clothes and list out the detail about the clothes. After that she clicks the menu button on the top left back to homepage.
 3.	Alice wants to check the order list from customers. She clicks the “Order list” button and it will show her the details of order from customers.
 4.	Alice click the “Products” button and it lead her to view on all the products she have uploaded. After that she can click on the products to check the feedback and inquiry of customers. She reply all her customers before she go to bed.
+
+Buyer
+
+1. Jennifer turn on Virtual Fitting Room Apps using her Android phone.She click to log in with her Facebook.Then she is now at the homepage of the apps.
+2. At the homepage, she can choose her favourite clothes slowly.When she found her interesting clothes, she click the product image and all the details are showing up.
+3. After that, she click the"Try Now" button and she can try out all the clothes she choose.When she satisfy her clothes,she click the "Camera" button to capture an image of her with the new clothes on. She click the "Share" button it let her to post on her social media apps.
+4. Jennifer is going to buy clothes, she click the "Menu" button and choose for "Order it now" button.She now at the order page.Jennifer make order and pay for the clothes.
 
 ### Validation Scenarios
 
